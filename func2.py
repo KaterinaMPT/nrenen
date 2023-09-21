@@ -7,4 +7,3 @@ def is_even(number):
     return result
 number = int(input("Введите число"))
 print(is_even(number))
-    
